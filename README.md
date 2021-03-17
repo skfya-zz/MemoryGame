@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://cdn.glitch.com/979c320d-b8af-4608-9258-17b021b85718%2Fwin.gif)
-![](https://cdn.glitch.com/979c320d-b8af-4608-9258-17b021b85718%2Flose.gif)
+![](win.gif)
+![](lose.gif)
 
 
 ## Reflection Questions
